@@ -1,6 +1,6 @@
 1 line modified by master
 2 line
-3 line
+3 line master
 4 line
 5 line modified by lyt
 6 line added by will
